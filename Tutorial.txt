@@ -1,0 +1,5 @@
+npm install --save-dev tw-animate-css      // for animation in dev mode
+
+to use the React bit ( background animation ) you need to visit the React Bit and copy the commad (for installation) from there .
+    it includes installing the background , creating automatically /lib and /components folders and the files in them, then you can copy the code from the React Bit and paste it in 
+    /components/BackgroundComp.tsx'(for ex ) ( or it will be pasted for you ). then use the comp in your Layout .
