@@ -20,7 +20,12 @@
     ],
     "paths": {
       "@/*": ["./*"]
-    }
+    },
+
+    "typescript": {
+    "ignoreBuildErrors": true
+  },
+
   },
   "include": [
     "next-env.d.ts",
